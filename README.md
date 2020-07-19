@@ -1,4 +1,4 @@
-# 7DaysBackpackButtonMod
+# 7dtdBackpackButtonMod
 
 Modded for server side only. Images hosted here. Use release branch. 
 
